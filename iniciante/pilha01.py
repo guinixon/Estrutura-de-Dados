@@ -30,20 +30,24 @@ class Pilha:
     def __repr__(self):
         return f"{self.dados}"
 
-##Teste
+#Testes
 
-p = Pilha()
-print(p)
-print(f"is empty? {p.is_empty()}")
+# def validacao(pilha : Pilha):
+    
+#     print(pilha)
+#     print(f"is empty? {pilha.is_empty()}")
 
-p.push(10)
-p.push(7)
-p.push(8)
-print(p)
-print(f"is empty? {p.is_empty()}")
+#     pilha.push(10)
+#     pilha.push(7)   
+#     pilha.push(8)
+#     print(pilha)
+#     print(f"is empty? {pilha.is_empty()}")
 
-print(f"Removendo: {p.pop()}")
-print(p)
+#     print(f"Removendo: {pilha.pop()}")
+#     print(pilha)
 
-print(f"Ultimo elemento adicionado a lista: {p.peek()}")
-print(f"Tamanho atual da pilha: {p.size()}")
+#     print(f"Ultimo elemento adicionado a lista: {pilha.peek()}")
+#     print(f"Tamanho atual da pilha: {pilha.size()}")
+
+# pilha = Pilha()
+# validacao(pilha)
