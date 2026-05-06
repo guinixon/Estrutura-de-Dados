@@ -1,4 +1,4 @@
-# 🐍 # Estrutura de Dados com Python | Guilheme Nixon
+# 🐍 Estrutura de Dados com Python | Guilheme Nixon
 
 Repositório de exercícios de Estrutura de Dados em Python, organizados por nível de dificuldade.
 
